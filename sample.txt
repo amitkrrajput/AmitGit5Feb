@@ -1,0 +1,11 @@
+Akila :
+Stage -> Commit -> Push
+
+Stage -> Decide what Artifacts to commit
+
+git init
+	to initialize new repo locally
+git status
+
+git add file1 file2   -> to add to stage area
+git add .  -> to add all files
