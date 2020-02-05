@@ -9,3 +9,14 @@ git status
 
 git add file1 file2   -> to add to stage area
 git add .  -> to add all files
+
+git commit -m "message" -> to comming
+
+git log -> to view the commit in repo
+
+git remote add <name> url
+
+git remote -v  -> Show url
+
+git push -u origin master -> upstream branch
+
